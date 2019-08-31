@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pattern" size="1.000000 0.667500" />
+    <ImageTarget name="flowtechlogo" size="1.000000 0.805263" />
+    <ImageTarget name="business_card" size="1.000000 0.572656" />
+    <ImageTarget name="flowtech_pamphlet" size="1.000000 0.400000" />
+  </Tracking>
+</QCARConfig>
